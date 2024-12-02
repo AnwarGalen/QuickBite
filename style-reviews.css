@@ -34,7 +34,7 @@ body{
 }
 .text-wrapper h2{
     position: absolute;
-    top: 25vh;
+    top: 30vh;
     left: 50%;
     transform: translate(-50%,-50%);
     width: 75vw;
